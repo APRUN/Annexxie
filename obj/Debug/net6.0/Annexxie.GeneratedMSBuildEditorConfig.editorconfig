@@ -1,0 +1,53 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Annexxie
+build_property.RootNamespace = Annexxie
+build_property.ProjectDir = D:\Zallalat\Semester 4\DB\Lab\Final Project\Code\FinalProjectG6\Annexxie\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Zallalat\Semester 4\DB\Lab\Final Project\Code\FinalProjectG6\Annexxie
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Zallalat/Semester 4/DB/Lab/Final Project/Code/FinalProjectG6/Annexxie/Pages/Customer/MyCart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3VzdG9tZXJcTXlDYXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Zallalat/Semester 4/DB/Lab/Final Project/Code/FinalProjectG6/Annexxie/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Zallalat/Semester 4/DB/Lab/Final Project/Code/FinalProjectG6/Annexxie/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Zallalat/Semester 4/DB/Lab/Final Project/Code/FinalProjectG6/Annexxie/Pages/Manager/Staff.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFuYWdlclxTdGFmZi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Zallalat/Semester 4/DB/Lab/Final Project/Code/FinalProjectG6/Annexxie/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Zallalat/Semester 4/DB/Lab/Final Project/Code/FinalProjectG6/Annexxie/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Zallalat/Semester 4/DB/Lab/Final Project/Code/FinalProjectG6/Annexxie/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Zallalat/Semester 4/DB/Lab/Final Project/Code/FinalProjectG6/Annexxie/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Zallalat/Semester 4/DB/Lab/Final Project/Code/FinalProjectG6/Annexxie/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-v2w9fjudp8

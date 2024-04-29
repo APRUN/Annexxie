@@ -1,0 +1,33 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+card {
+    box-shadow: 2px 2px 3px 3px #aaaaaa;
+    width: 90%;
+}
+card-body{
+    align-items:center;
+}
+hr{
+    margin: 0.7rem 1rem 2rem 0rem;
+}
+
+
+
+
